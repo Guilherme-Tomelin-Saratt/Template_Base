@@ -1,6 +1,3 @@
-# RPA_Consulta_Capa
-
-
 ### 1. Criação do Ambiente Virtual
 Execute o comando abaixo no diretório do projeto para criar um ambiente virtual chamado `.venv`:
 
